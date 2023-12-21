@@ -1,0 +1,1 @@
+/* Servicios de gestion de cookies */

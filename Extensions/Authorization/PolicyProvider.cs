@@ -1,0 +1,1 @@
+/* Proveedor de politicas de autorizacion para definir reglas de acceso, enfocado a roles */

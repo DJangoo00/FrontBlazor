@@ -1,0 +1,1 @@
+/* Es un proveedor de estados  de autenticacion para su respectivo manejo global en la aplicacion */
