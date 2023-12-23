@@ -13,9 +13,9 @@ public class ApiService : IApiService
 {
     private readonly HttpClient _httpClient;
 
-    public ApiService(HttpClient httpClient)
+    public ApiService()
     {
-        _httpClient = httpClient;
+        _httpContextAccessor = new HttpContextAccessor();
     }
 
     //Optener objeto especifico de un unico endpoint
