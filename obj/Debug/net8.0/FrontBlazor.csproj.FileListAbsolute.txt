@@ -1,0 +1,7 @@
+C:\Users\Alejo\Documents\Dev\Campus\FrontBlazor\obj\Debug\net8.0\FrontBlazor.csproj.AssemblyReference.cache
+C:\Users\Alejo\Documents\Dev\Campus\FrontBlazor\obj\Debug\net8.0\FrontBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejo\Documents\Dev\Campus\FrontBlazor\obj\Debug\net8.0\FrontBlazor.AssemblyInfoInputs.cache
+C:\Users\Alejo\Documents\Dev\Campus\FrontBlazor\obj\Debug\net8.0\FrontBlazor.AssemblyInfo.cs
+C:\Users\Alejo\Documents\Dev\Campus\FrontBlazor\obj\Debug\net8.0\FrontBlazor.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Documents\Dev\Campus\FrontBlazor\obj\Debug\net8.0\FrontBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alejo\Documents\Dev\Campus\FrontBlazor\obj\Debug\net8.0\FrontBlazor.sourcelink.json
